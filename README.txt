@@ -9,7 +9,7 @@ It's a cheap and fantastic tool for low resolution art and animation by David Ca
 What is this?
 -------------------------------
 
-This is a theme dark grey theme for Aseprite that I created by editing the original default sprite sheet, because I like dark grey themes.
+This is a dark grey theme for Aseprite that I created by editing the original default skin, because I like dark grey themes.
 
 -------------------------------
 Screenshot
