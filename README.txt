@@ -1,5 +1,7 @@
 --- Aseprite Dark Grey Theme ----
 
+WARNING: This version is exclusively for v1.2-beta8 and onwards of Aseprite.
+
 You can find Aseprite at http://aseprite.org/ or http://store.steampowered.com/app/431730/. 
 It's a cheap and fantastic tool for low resolution art and animation by David Capello, strongly recommended for pixel art game development.
 
