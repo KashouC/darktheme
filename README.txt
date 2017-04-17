@@ -13,6 +13,10 @@ What is this?
 This is a dark grey theme for Aseprite that I created by editing the original default skin 
 made by David Capello and Ilija Melentijevic, because I like dark grey themes.
 
+Colors based on the DarkFlat theme by michidk.
+
+https://github.com/michidk/Aseprite-DarkFlat-Theme/
+
 -------------------------------
 Screenshot
 -------------------------------
