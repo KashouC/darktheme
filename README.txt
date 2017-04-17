@@ -10,8 +10,8 @@ strongly recommended for pixel art game development.
 What is this?
 -------------------------------
 
-This is a dark grey theme for Aseprite that I created by editing the original default skin made by David Capello and
-Ilija Melentijevic, because I like dark grey themes.
+This is a dark grey theme for Aseprite that I created by editing the original default skin 
+made by David Capello and Ilija Melentijevic, because I like dark grey themes.
 
 -------------------------------
 Screenshot
