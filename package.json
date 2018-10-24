@@ -1,0 +1,20 @@
+{
+  "name": "aseprite-dark-grey-theme",
+  "displayName": "Aseprite Dark Grey Theme",
+  "description": "This is a dark grey theme for Aseprite that I created by editing the original default skin made by David Capello and Ilija Melentijevic, because I like dark grey themes.",
+  "version": "<version here>",
+  "author": { "name": "<name here>", "email": "<email here>", "url": "https://github.com/KashouC/darktheme" },
+  "contributors": [
+    { "name": "<Someone's name here>", "url": "<Their url>" }
+  ],
+  "publisher": "<Publisher here>",
+  "license": "GNU",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "aseprite-dark-grey-theme", "path": "." }
+    ]
+  }
+}
