@@ -27,13 +27,12 @@ Can be found in the repository.
 How to Install
 -------------------------------
 
-Download the files from https://github.com/KashouC/darktheme
+Download the files from https://github.com/KashouC/darktheme by clicking the "Clone or Download" button in the top right, then selecting "Download ZIP".
+Save it wherever you want, preferably in an easily accessed location like C:\
 
-Copy the files into your theme folder. 
-Start up Aseprite and go into Edit -> Preferences -> Theme, and click "Open Folder" to easily find the correct folder. 
-(Be sure not to copy the files into the default folder, make a new one in the theme folder)
+Start up Aseprite and go into Edit -> Preferences -> Extensions and click "Add Extension", then navigate to where you saved the .zip and select it, then click OK. 
 
-Then go back into the Theme window in Aseprite and click the theme and click Select. Restart Aseprite, and it should work.
+Then switch over to "Theme" in the list on the left in the Preferences window, then click the theme "aseprite-dark-grey-theme" and click Select, and it should update right away.
 If the theme doesn't show up, try restarting the program to allow it to load in.
 
 ------------------------------
