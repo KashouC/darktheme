@@ -1,5 +1,5 @@
 --- Aseprite Dark Grey Theme ----
-
+WARNING: This theme is not updated anymore as I do not use it.
 WARNING: This version is exclusively for v1.2-beta8 and onwards of Aseprite.
 
 You can find Aseprite at http://aseprite.org/ or http://store.steampowered.com/app/431730/. 
