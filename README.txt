@@ -40,4 +40,4 @@ Who am I?
 ------------------------------
 
 I am a pixel artist and game developer. 
-Follow me at http://twitter.com/legacydev_ and don't hesitate to ask me anything or give feedback on the theme.
+Follow me at http://twitter.com/kashouart
